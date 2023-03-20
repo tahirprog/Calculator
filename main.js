@@ -10,7 +10,7 @@ button.forEach((btn) => {
     } else if (btn.id == "de") {
         display.value = display.value.slice(0, -1);
     } else{
-        display.value += btn.id;
+         display.value += btn.id;
     }
  });
 });
