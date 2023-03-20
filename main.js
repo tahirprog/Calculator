@@ -1,5 +1,5 @@
 const display = document.querySelector("#display");
-const button = decument.querySelectorAll("button");
+const buttons = decument.querySelectorAll("button");
 
 button.forEach((btn) => {
     btn.addEventListener("click", () => {
