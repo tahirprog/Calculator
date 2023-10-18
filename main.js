@@ -14,7 +14,6 @@ button.forEach( btn => {
           screen.value = eval(screenvalue);
 
          }
-         
-
+        
     }) 
  });
